@@ -15,6 +15,11 @@ NSF CAREER CoE RD Support:
 3. Enter referral code: RollSkies (institutional license, free to you)
 Feel free to reply or DM for any questions/concerns.
 
+[NSF CAREER Resources sharepoint folder](https://uconn.sharepoint.com/:f:/s/COEEarlyCareerProfessors/EkptOXMo2LxImtbfDQTUtzMBsGJqedJKmsC2ZBrnq_N5_g?e=0wCxZM)
+
+[COE Support for NSF CAREER
+awards](https://uconn.sharepoint.com/:p:/r/sites/COEEarlyCareerProfessors/Shared%20Documents/General/NSF%20CAREER%20Resources/CoE%20CAREER%20Resources%20Table%20of%20Contents.pptx?d=wd9c7d994dba847819cecfc2bb44585f2&csf=1&web=1&e=jOTdNA)
+
 ![Suggested timeline from Hanover Research for Career award](./hanover_timeline.png)
 
 [20250612 NSF CAREER webinar on engineering education research proposals](https://www.nsf.gov/events/nsf-career-webinar-engineering-education-research-proposals?utm_medium=email&utm_source=govdelivery)
