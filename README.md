@@ -20,10 +20,11 @@ Feel free to reply or DM for any questions/concerns.
 [COE Support for NSF CAREER
 awards](https://uconn.sharepoint.com/:p:/r/sites/COEEarlyCareerProfessors/Shared%20Documents/General/NSF%20CAREER%20Resources/CoE%20CAREER%20Resources%20Table%20of%20Contents.pptx?d=wd9c7d994dba847819cecfc2bb44585f2&csf=1&web=1&e=jOTdNA)
 
-![Suggested timeline from Hanover Research for Career award](./hanover_timeline.png)
-
 [20250612 NSF CAREER webinar on engineering education research proposals](https://www.nsf.gov/events/nsf-career-webinar-engineering-education-research-proposals?utm_medium=email&utm_source=govdelivery)
 
 [CAREER Proposal Submission Logistics Webinar](https://www.nsf.gov/events/career-proposal-submission-logistics-webinar-0?utm_medium=email&utm_source=govdelivery)
+
+
+![Suggested timeline from Hanover Research for Career award](./hanover_timeline.png)
 
 
